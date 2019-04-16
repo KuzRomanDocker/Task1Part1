@@ -1,4 +1,3 @@
-/home/ubuntu/Task1Part1/README   [----]  0 L:[  1+28  29/ 44] *(1269/1555b) 0010 0x00A                                                                                                                       [*][X]
 # Задание
 Создать 2 докер-приложения {username}/user1, {username}/user2
  * создать Dockerfile-ы на базе https://hub.docker.com/_/nginx/

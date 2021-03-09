@@ -5,7 +5,6 @@ pipeline {
             steps {
               sh '''#!/bin/bash
                     echo "Build Task1Part1"
-                    echo "Build Task1Part1"
                    '''
             }
         }
